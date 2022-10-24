@@ -1,0 +1,1 @@
+# membangkitkan-data-dengan-transformasi-langsung
