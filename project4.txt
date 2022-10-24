@@ -1,3 +1,12 @@
+> #Program inti membangkitkan n data chi-kuadrat(1) 
+> n=50
+> u1<-runif(n,0,1) 
+> u2<-runif(n,0,1) 
+> z1<-sqrt(-2*log(u1))*cos(2*pi*u2) 
+> z2<-sqrt(-2*log(u1))*sin(2*pi*u2) 
+> z<-c(z1,z2) 
+> y<-z^2
+> hist(y)
 #Program inti membangkitkan m data chi-kuadrat (r=2n) 
 > n=50
 > r=2*n
@@ -15,3 +24,4 @@
 > x
 > hist(y)
 > y
+
