@@ -11,13 +11,13 @@
 2.	Tentukan Y= Z2
 Maka, Y adalah data dari χ21.
 
-#Langkah Analisis
+# Langkah Analisis
 
 untuk membangkitkan data dari   dapat dilakukan langkah-langkah berikut :
 1.	Bangkitkan Z dari N (0,1) seperti pada algoritma yang telah dipelajari pada pertemuan sebelumnya.
 2.	Tentukan Y = Z2
 
-#Hasil Analisis
+# Hasil Analisis
 
 ![image](https://user-images.githubusercontent.com/116244436/197428277-86de7133-3a73-4771-b2ef-cee143f1c1a6.png)
 
@@ -29,7 +29,7 @@ untuk membangkitkan data dari   dapat dilakukan langkah-langkah berikut :
 
 ![image](https://user-images.githubusercontent.com/116244436/197428434-f6578107-fe49-430b-b206-ef0e7d41f3e0.png)
 
-#Pembahasan
+# Pembahasan
 
   Dalam membangkitkan biilangan, terlihat pada syntax pertama sebelum mebangkitkan bilangan acak chi-square, terlebih dahulu harus membangkitkan bilangan dari distribusi normal, hal ini karena distribusi chi-square berasal dari Z2 oleh karena itu diawali dengan mebangkitkan Z, N(0,1). (I Made Tirta,2003). Setelah membangkitkan bilangan acak dari normal, variabel yang digunakan kemudian dipangkat 2 kan sehingga menjadi chi square. 
   
